@@ -1,0 +1,9 @@
+1) Napishite programmu dlya podscheta probelov, znakov tabulyatsii i perenosa simvolov stroki.
+
+2) Napishite programmu dlya vyvoda vkhodyashchego potoka po odnomu slovu v potoke.
+
+3) Napishite programmu dlya vyvoda gistogramm dlinnykh slov vo vkhodnom potoke.
+
+4) Napishite programmu dlya vyvoda strok vkhodnogo potoka, otobrazhayushchuyu boleye 80 simvolov.
+
+5) Napishite funktsiyu reverse(s), kotoraya perepisyvayet svoy strokovyy argument v obratnom poryadke. Vospol'zuytes' primeneniyem dlya napisaniya programmy, kotoraya vypolnyala takoye obrashcheniye nad kazhdoy strokoy vkhodnogo potoka po ocheredi.
